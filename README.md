@@ -1,2 +1,3 @@
 # Text Explaining Languages (Personal Notes: HTML, CSS, JavaScript, PHP)
  This archives are words IN SPANISH explaining languages in a way that i creat for MY understanding. I make them public for someone that can use them, but they are not made for other users in a educative way soy they may be a litlle bit rough or hard to process.
+ Estos archivos son Words EN ESPAÑOL explicando lenguajes en un sentido que me fuera mas facil para mi entenderlo. Los hago publicos por si alguien quiere usarlos, pero no fueron creador para eduar a otros usuarios, por lo tanto pueden ser un poco dificiles de entender.
